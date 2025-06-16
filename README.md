@@ -16,6 +16,9 @@
 
 &nbsp;
 
+[V2.02 - COLORband Q3BT ILS](https://github.com/Chauvet-DJ/COLORBANDQ3BTILS/blob/0126548f69b87638f6c20eaf8a46df021b9eb9c4/firmware/V2.02_06-15-25.zip)
+- Added pixel effect when controlled with the ILS Command
+
 [V2.01 - COLORband Q3BT ILS](https://github.com/Chauvet-DJ/COLORBANDQ3BTILS/blob/f683662637071a14d75a4464644dc49324eb2cec/firmware/V2.01_03-15-24.zip)
 - Software update
 
